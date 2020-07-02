@@ -26,6 +26,6 @@ $ npm install nodemon eslint -D
 # Build and launch application
 
 ```shell script
-$ node server.js
-$ npm run dev
+$ npm install
+$ npm run dev OR node server.js
 ```
